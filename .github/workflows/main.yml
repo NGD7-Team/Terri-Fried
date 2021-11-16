@@ -35,4 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           cd scripts
+          chmod +x download-ndk-and-build-sfml.sh
           ./download-ndk-and-build-sfml.sh

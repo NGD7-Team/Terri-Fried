@@ -38,4 +38,6 @@ jobs:
           chmod +x download-ndk-and-build-sfml.sh
           chmod +x check-requirements.sh
           chmod +x build-sfml.sh
+          chmod +x rebuild-all.sh
+          chmod +x rebuild.sh
           ./download-ndk-and-build-sfml.sh
